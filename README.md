@@ -1,1 +1,1 @@
-# IBM-HR-Data-Analysis-in-Jupyter-Notebook
+Welcome to the IBM HR Data Analysis repository! This collection of Python scripts utilizes pandas, matplotlib, and seaborn for comprehensive data analysis and visualization. The primary focus is on exploring employee data, creating insightful visualizations, and deriving meaningful conclusions from the dataset.
